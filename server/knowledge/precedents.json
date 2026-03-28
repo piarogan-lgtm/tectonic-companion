@@ -1,0 +1,1678 @@
+[
+  {
+    "name": "Marie Short House",
+    "architect": "Glenn Murcutt",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "lightweight", "climate responsive", "timber tectonics"],
+    "materials": ["timber", "steel", "corrugated metal", "glass"],
+    "detail_types": ["roof edge", "wall assembly", "sun shading", "floor platform", "window junction"],
+    "environmental_themes": ["ventilation", "solar control", "lightweight envelope"],
+    "tectonic_themes": ["expressed structure", "operable elements", "material honesty"],
+    "key_features": [
+      "raised floor construction",
+      "operable shading devices",
+      "long narrow planning for cross ventilation",
+      "lightweight framed envelope"
+    ],
+    "junction_lessons": [
+      "separate lightweight wall systems from ground moisture",
+      "express environmental control devices as part of the architecture",
+      "use thin, readable edge conditions"
+    ],
+    "material_transitions": [
+      "timber to steel",
+      "lightweight wall to open screen",
+      "platform to landscape"
+    ],
+    "why_relevant": "A core precedent for lightweight Australian residential construction, passive climate response, and expressed material systems."
+  },
+  {
+    "name": "Magney House",
+    "architect": "Glenn Murcutt",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "roof form", "climate responsive", "lightweight"],
+    "materials": ["metal roofing", "timber", "glass", "steel"],
+    "detail_types": ["roof edge", "gutter", "window junction", "eaves", "rainwater handling"],
+    "environmental_themes": ["rainwater collection", "solar response", "ventilation"],
+    "tectonic_themes": ["expressed roof logic", "lightweight assembly"],
+    "key_features": [
+      "butterfly roof profile",
+      "roof form driven by climate and water collection",
+      "thin lightweight material language"
+    ],
+    "junction_lessons": [
+      "make roof geometry work with drainage logic",
+      "allow environmental performance to shape edge conditions",
+      "keep eaves and roof lines clean but purposeful"
+    ],
+    "material_transitions": [
+      "roof to wall",
+      "metal roof to lightweight frame",
+      "gutter to facade"
+    ],
+    "why_relevant": "Very useful for roof edge detailing, rainwater logic, and making environmental performance part of architectural expression."
+  },
+  {
+    "name": "Simpson-Lee House",
+    "architect": "Glenn Murcutt",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "lightweight", "landscape response"],
+    "materials": ["steel", "timber", "glass", "metal cladding"],
+    "detail_types": ["wall assembly", "window junction", "roof edge", "shading"],
+    "environmental_themes": ["solar control", "exposure", "siting"],
+    "tectonic_themes": ["refined lightweight detailing", "linear planning", "restraint"],
+    "key_features": [
+      "long narrow plan",
+      "careful response to exposed site conditions",
+      "restrained but precise material palette"
+    ],
+    "junction_lessons": [
+      "small edge decisions strongly affect overall architectural clarity",
+      "protect openings in exposed conditions",
+      "resolve lightweight elements with precision rather than bulk"
+    ],
+    "material_transitions": [
+      "steel to timber",
+      "glass to shading element",
+      "roof edge to open landscape"
+    ],
+    "why_relevant": "Useful for refining lightweight detailing in exposed conditions and for disciplined edge-making."
+  },
+  {
+    "name": "Ball-Eastaway House",
+    "architect": "Glenn Murcutt",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "steel", "lightweight", "forest setting"],
+    "materials": ["steel", "glass", "metal roofing"],
+    "detail_types": ["platform", "screen", "window junction", "roof edge"],
+    "environmental_themes": ["lightweight footprint", "site response", "ventilation"],
+    "tectonic_themes": ["elevated construction", "delicate enclosure"],
+    "key_features": [
+      "elevated lightweight structure",
+      "minimal disturbance to site",
+      "highly legible enclosure and frame"
+    ],
+    "junction_lessons": [
+      "lift delicate structures away from damp ground conditions",
+      "express support points clearly",
+      "keep enclosure systems light and readable"
+    ],
+    "material_transitions": [
+      "steel frame to glass enclosure",
+      "platform to terrain",
+      "roof edge to forest canopy"
+    ],
+    "why_relevant": "Helpful for thinking about elevated construction, lightweight frames, and delicate enclosure systems."
+  },
+  {
+    "name": "Marika-Alderton House",
+    "architect": "Glenn Murcutt",
+    "location": "Northern Territory, Australia",
+    "building_type": "house",
+    "categories": ["residential", "tropical", "prefabricated", "climate responsive"],
+    "materials": ["timber", "metal", "plywood"],
+    "detail_types": ["screen", "wall assembly", "shading", "roof edge", "platform"],
+    "environmental_themes": ["tropical ventilation", "shade", "lightweight envelope"],
+    "tectonic_themes": ["prefabrication", "operable enclosure", "climatic adaptability"],
+    "key_features": [
+      "lightweight elevated form",
+      "openable wall components",
+      "shade and air movement as primary design drivers"
+    ],
+    "junction_lessons": [
+      "design enclosure as adjustable rather than fixed",
+      "prioritise shade and airflow at every edge",
+      "keep assembly dry and elevated where needed"
+    ],
+    "material_transitions": [
+      "screen to wall",
+      "platform to open air",
+      "roof to shaded perimeter"
+    ],
+    "why_relevant": "Highly relevant for climate-led detailing, operable screens, and lightweight tropical construction."
+  },
+  {
+    "name": "Bingie Farm",
+    "architect": "Glenn Murcutt",
+    "location": "New South Wales, Australia",
+    "building_type": "farmhouse",
+    "categories": ["residential", "rural", "lightweight", "landscape response"],
+    "materials": ["metal roofing", "timber", "steel"],
+    "detail_types": ["roof edge", "shading", "wall assembly", "opening"],
+    "environmental_themes": ["rural climate response", "durability", "ventilation"],
+    "tectonic_themes": ["agricultural language", "pragmatic elegance"],
+    "key_features": [
+      "clear linear form",
+      "agricultural material references",
+      "environmental performance embedded in simple detailing"
+    ],
+    "junction_lessons": [
+      "robust details can still be elegant",
+      "let environmental logic drive repeated components",
+      "use durable simple materials honestly"
+    ],
+    "material_transitions": [
+      "metal roof to framed wall",
+      "open shade edge to enclosed room",
+      "platform to landscape"
+    ],
+    "why_relevant": "Useful for robust rural detailing and simple, repeatable, climate-responsive junctions."
+  },
+  {
+    "name": "Lovett Bay House",
+    "architect": "Richard Leplastrier",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "timber tectonics", "craft", "lightweight"],
+    "materials": ["timber", "plywood", "metal roofing"],
+    "detail_types": ["joinery", "deck junction", "threshold", "screen", "opening"],
+    "environmental_themes": ["light touch on site", "natural ventilation"],
+    "tectonic_themes": ["timber craft", "fine-grain detail", "operable enclosure"],
+    "key_features": [
+      "carefully crafted timber junctions",
+      "openable wall and screen elements",
+      "simple but highly resolved domestic construction"
+    ],
+    "junction_lessons": [
+      "protect timber end grain and vulnerable edges",
+      "let movement joints be deliberate rather than hidden",
+      "use projection, clearance, and drip logic instead of relying on sealants"
+    ],
+    "material_transitions": [
+      "deck to wall",
+      "timber screen to framed enclosure",
+      "lightweight structure to landscape"
+    ],
+    "why_relevant": "A strong reference for joinery, thresholds, timber craft, and elegant lightweight residential detailing."
+  },
+  {
+    "name": "Palm Garden House",
+    "architect": "Peter Stutchbury",
+    "location": "Sydney, Australia",
+    "building_type": "house",
+    "categories": ["residential", "timber tectonics", "structure expression"],
+    "materials": ["timber", "steel", "glass"],
+    "detail_types": ["framing", "threshold", "opening", "facade layering", "deck interface"],
+    "environmental_themes": ["light control", "site responsiveness"],
+    "tectonic_themes": ["expressed framing", "layered enclosure"],
+    "key_features": [
+      "structural expression",
+      "strong inside-outside relationship",
+      "tectonic framing language"
+    ],
+    "junction_lessons": [
+      "use offset and layering to clarify transitions",
+      "make thresholds read as intentional architectural moments",
+      "express structure where it helps explain the detail"
+    ],
+    "material_transitions": [
+      "frame to infill",
+      "interior to exterior threshold",
+      "deck edge to glazed opening"
+    ],
+    "why_relevant": "Useful for expressed frame logic, threshold articulation, and refined residential material transitions."
+  },
+  {
+    "name": "Invisible House",
+    "architect": "Peter Stutchbury",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "landscape integration", "subtle expression"],
+    "materials": ["concrete", "timber", "glass", "metal"],
+    "detail_types": ["wall assembly", "roof edge", "opening", "platform"],
+    "environmental_themes": ["site integration", "solar control", "landscape response"],
+    "tectonic_themes": ["subtlety", "continuity", "low visual impact"],
+    "key_features": [
+      "strong integration with terrain",
+      "controlled palette",
+      "quiet but precise material transitions"
+    ],
+    "junction_lessons": [
+      "reduce visual noise at key interfaces",
+      "use continuity and shadow to soften transitions",
+      "let the building sit into its site rather than dominate it"
+    ],
+    "material_transitions": [
+      "wall to landscape",
+      "roof to terrain edge",
+      "concrete to lighter enclosure"
+    ],
+    "why_relevant": "Helpful for quiet, refined transitions and integrating architectural detail with site conditions."
+  },
+  {
+    "name": "Springwater House",
+    "architect": "Peter Stutchbury",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "lightweight", "landscape response"],
+    "materials": ["timber", "metal", "glass"],
+    "detail_types": ["roof edge", "threshold", "opening", "deck"],
+    "environmental_themes": ["climate responsiveness", "site orientation", "air movement"],
+    "tectonic_themes": ["lightness", "framed landscape", "refined exposure"],
+    "key_features": [
+      "open relationship to site",
+      "expressed lightweight shelter",
+      "careful treatment of edge conditions"
+    ],
+    "junction_lessons": [
+      "design edge conditions as filters rather than barriers",
+      "keep roof and threshold details visually light",
+      "clarify how shelter meets openness"
+    ],
+    "material_transitions": [
+      "roof to open terrace",
+      "timber frame to glazing",
+      "interior to landscape edge"
+    ],
+    "why_relevant": "Useful for lightweight shelters, threshold refinement, and edges that mediate climate and landscape."
+  },
+  {
+    "name": "Basin Beach House",
+    "architect": "Peter Stutchbury",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "coastal", "timber", "landscape response"],
+    "materials": ["timber", "steel", "glass", "metal roofing"],
+    "detail_types": ["opening", "deck", "screen", "roof edge"],
+    "environmental_themes": ["coastal exposure", "light", "ventilation"],
+    "tectonic_themes": ["framing", "craft", "durability"],
+    "key_features": [
+      "sensitive response to coastal setting",
+      "controlled enclosure and openness",
+      "expressed structural and material system"
+    ],
+    "junction_lessons": [
+      "balance exposure with protection",
+      "choose robust fixings and edges in coastal conditions",
+      "let transitions between screen and enclosure stay legible"
+    ],
+    "material_transitions": [
+      "deck to enclosed room",
+      "screen to glazed wall",
+      "roof edge to sea-facing facade"
+    ],
+    "why_relevant": "Relevant for coastal residential detailing, exposed timber conditions, and robust threshold design."
+  },
+  {
+    "name": "North Avoca House",
+    "architect": "Casey Brown",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "coastal", "robust envelope", "timber and metal"],
+    "materials": ["timber", "steel", "metal cladding"],
+    "detail_types": ["external cladding", "opening", "screen", "roof edge"],
+    "environmental_themes": ["coastal durability", "solar control"],
+    "tectonic_themes": ["robust shell", "protective skin"],
+    "key_features": [
+      "durable outer shell",
+      "simple robust material language",
+      "climate-responsive coastal detailing"
+    ],
+    "junction_lessons": [
+      "treat the outer skin as a defensive layer",
+      "design flashings and cladding junctions to age well",
+      "use robust detailing to protect more delicate inner elements"
+    ],
+    "material_transitions": [
+      "outer shell to inner enclosure",
+      "cladding to opening",
+      "screen to structural frame"
+    ],
+    "why_relevant": "Especially relevant for coastal houses, durable external envelopes, and robust but refined material choices."
+  },
+  {
+    "name": "Permanent Camping 2",
+    "architect": "Casey Brown",
+    "location": "Victoria, Australia",
+    "building_type": "house",
+    "categories": ["residential", "small footprint", "timber", "metal"],
+    "materials": ["timber", "metal cladding", "glass"],
+    "detail_types": ["opening", "screen", "wall assembly", "roof edge"],
+    "environmental_themes": ["compact planning", "environmental restraint"],
+    "tectonic_themes": ["simple assembly", "honest material use"],
+    "key_features": [
+      "compressed material palette",
+      "simple robust enclosure",
+      "high clarity of detail language"
+    ],
+    "junction_lessons": [
+      "a small number of materials can produce strong detail coherence",
+      "keep assemblies legible and repeatable",
+      "simple details often read more confidently than overworked ones"
+    ],
+    "material_transitions": [
+      "cladding to opening",
+      "roof to wall",
+      "interior lining to external envelope"
+    ],
+    "why_relevant": "Useful for learning how a restrained palette can produce strong and buildable detail outcomes."
+  },
+  {
+    "name": "Two Sheds",
+    "architect": "MGAO",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "rural", "twin-form composition"],
+    "materials": ["metal", "timber", "glass"],
+    "detail_types": ["roof edge", "cladding", "threshold", "opening"],
+    "environmental_themes": ["rural siting", "solar response", "durability"],
+    "tectonic_themes": ["shed archetype", "simple envelope", "clarity"],
+    "key_features": [
+      "paired shed forms",
+      "clear material logic",
+      "strong relationship between simple form and detailed edge"
+    ],
+    "junction_lessons": [
+      "simple forms need disciplined edge detailing",
+      "use repeated details consistently across multiple volumes",
+      "let junctions reinforce the overall compositional language"
+    ],
+    "material_transitions": [
+      "shed roof to wall",
+      "cladding to glazed opening",
+      "threshold to outdoor room"
+    ],
+    "why_relevant": "Helpful for simple rural envelopes, repeated detail language, and robust but elegant shed-derived architecture."
+  },
+  {
+    "name": "Birchgrove House",
+    "architect": "Nobbs Radford",
+    "location": "Sydney, Australia",
+    "building_type": "house",
+    "categories": ["residential", "urban", "craft", "timber"],
+    "materials": ["timber", "masonry", "glass", "metal"],
+    "detail_types": ["joinery", "threshold", "wall junction", "opening"],
+    "environmental_themes": ["urban infill", "light control"],
+    "tectonic_themes": ["crafted domesticity", "layered enclosure"],
+    "key_features": [
+      "careful material junctions",
+      "domestic scale precision",
+      "refined internal-external transitions"
+    ],
+    "junction_lessons": [
+      "tight urban conditions benefit from disciplined layering",
+      "craft can be expressed without excessive complexity",
+      "small-scale details strongly shape domestic atmosphere"
+    ],
+    "material_transitions": [
+      "timber to masonry",
+      "interior joinery to external opening",
+      "threshold to courtyard"
+    ],
+    "why_relevant": "Useful for domestic-scale precision, crafted junctions, and refined urban threshold conditions."
+  },
+  {
+    "name": "Kew House",
+    "architect": "Sean Godsell",
+    "location": "Victoria, Australia",
+    "building_type": "house",
+    "categories": ["residential", "steel", "industrial expression", "protective envelope"],
+    "materials": ["steel", "metal screen", "glass"],
+    "detail_types": ["screen", "facade", "threshold", "opening", "edge condition"],
+    "environmental_themes": ["solar protection", "durability", "urban privacy"],
+    "tectonic_themes": ["operable skin", "protective shell", "datum expression"],
+    "key_features": [
+      "expressed steel skin",
+      "operable metal elements",
+      "strong horizontal datum lines"
+    ],
+    "junction_lessons": [
+      "make flashings and datum lines work architecturally",
+      "treat outer skin and inner enclosure as separate systems",
+      "use operable screens to mediate exposure and privacy"
+    ],
+    "material_transitions": [
+      "steel screen to glazed enclosure",
+      "base to upper skin",
+      "opening to operable metal layer"
+    ],
+    "why_relevant": "Very useful for expressive metal skins, durable urban envelopes, and clear outer-shell logic."
+  },
+  {
+    "name": "House in Toorak",
+    "architect": "Sean Godsell",
+    "location": "Victoria, Australia",
+    "building_type": "house",
+    "categories": ["residential", "metal", "urban", "minimal"],
+    "materials": ["steel", "concrete", "glass"],
+    "detail_types": ["screen", "facade", "threshold", "opening"],
+    "environmental_themes": ["privacy", "shade", "urban enclosure"],
+    "tectonic_themes": ["steel tectonics", "controlled exposure", "precision"],
+    "key_features": [
+      "strong external shell",
+      "minimal but deliberate details",
+      "controlled views and privacy"
+    ],
+    "junction_lessons": [
+      "privacy layers can be tectonically legible",
+      "thin metal details require careful dimensional discipline",
+      "keep threshold and opening conditions calm and exact"
+    ],
+    "material_transitions": [
+      "outer metal layer to glass",
+      "concrete base to steel skin",
+      "screen to threshold"
+    ],
+    "why_relevant": "Helpful for urban metal detailing, privacy screens, and disciplined external shell articulation."
+  },
+  {
+    "name": "RMIT Design Hub",
+    "architect": "Sean Godsell",
+    "location": "Melbourne, Australia",
+    "building_type": "institutional",
+    "categories": ["metal", "facade", "environmental control", "screen"],
+    "materials": ["metal", "glass", "steel"],
+    "detail_types": ["screen", "envelope", "facade interface", "shading device"],
+    "environmental_themes": ["solar control", "adaptive facade"],
+    "tectonic_themes": ["performance skin", "kinetic enclosure"],
+    "key_features": [
+      "responsive facade elements",
+      "thin metal expression",
+      "environmental control integrated into the building skin"
+    ],
+    "junction_lessons": [
+      "secondary skins need clear support and movement logic",
+      "dynamic facade elements should read as part of the architecture",
+      "fixing systems matter visually as well as technically"
+    ],
+    "material_transitions": [
+      "screen to curtain wall",
+      "metal panel to support frame",
+      "facade to shading device"
+    ],
+    "why_relevant": "Useful when thinking about environmental screens, thin metal systems, and secondary facade layers."
+  },
+  {
+    "name": "Rose Seidler House",
+    "architect": "Harry Seidler",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "modernist", "platform construction"],
+    "materials": ["steel", "concrete", "glass", "masonry"],
+    "detail_types": ["platform edge", "balustrade", "window junction", "stair"],
+    "environmental_themes": ["orientation", "elevated planning"],
+    "tectonic_themes": ["clear structural order", "lightness over landscape"],
+    "key_features": [
+      "elevated platform form",
+      "clear modernist structural expression",
+      "careful indoor-outdoor framing"
+    ],
+    "junction_lessons": [
+      "platform edges need clarity and precision",
+      "elevated construction sharpens the reading of support and enclosure",
+      "balustrades and openings should reinforce structural order"
+    ],
+    "material_transitions": [
+      "platform to landscape",
+      "steel frame to glass",
+      "stair to elevated slab"
+    ],
+    "why_relevant": "Helpful for platform edge thinking, structural order, and clean residential junction logic."
+  },
+  {
+    "name": "Can Lis",
+    "architect": "Jørn Utzon",
+    "location": "Mallorca, Spain",
+    "building_type": "house",
+    "categories": ["residential", "stone", "light", "coastal"],
+    "materials": ["stone", "timber", "tile"],
+    "detail_types": ["opening", "wall thickness", "threshold", "plinth"],
+    "environmental_themes": ["light control", "sea exposure", "thermal mass"],
+    "tectonic_themes": ["mass and opening", "platforms", "framed horizon"],
+    "key_features": [
+      "stone rooms arranged as pavilions",
+      "deep openings",
+      "strong relationship to horizon and light"
+    ],
+    "junction_lessons": [
+      "heavy walls benefit from deep, protective reveals",
+      "thresholds can be thickened and inhabited",
+      "stone base conditions should feel grounded and deliberate"
+    ],
+    "material_transitions": [
+      "stone wall to timber opening",
+      "plinth to room",
+      "heavy wall to open view"
+    ],
+    "why_relevant": "Excellent for stone base conditions, deep openings, and transitions between mass and light."
+  },
+  {
+    "name": "Bagsværd Church",
+    "architect": "Jørn Utzon",
+    "location": "Denmark",
+    "building_type": "church",
+    "categories": ["light", "roof form", "structure"],
+    "materials": ["concrete", "metal", "glass"],
+    "detail_types": ["roof edge", "ceiling junction", "light opening"],
+    "environmental_themes": ["top light", "diffused daylight"],
+    "tectonic_themes": ["roof as spatial generator", "lightweight over heavy"],
+    "key_features": [
+      "distinctive roof profile",
+      "controlled top light",
+      "contrast between outer shell and inner spatial ceiling"
+    ],
+    "junction_lessons": [
+      "roof geometry can shape both structure and atmosphere",
+      "interior and exterior roof expressions may differ but need coherent transitions",
+      "top-light details require control, not just openness"
+    ],
+    "material_transitions": [
+      "outer roof to inner ceiling",
+      "concrete wall to top light opening",
+      "shell to spatial interior"
+    ],
+    "why_relevant": "Useful for roof logic, controlled daylight, and layered roof/ceiling relationships."
+  },
+  {
+    "name": "Sydney Opera House",
+    "architect": "Jørn Utzon",
+    "location": "Sydney, Australia",
+    "building_type": "cultural",
+    "categories": ["structure", "shell", "roof geometry"],
+    "materials": ["concrete", "tile", "glass"],
+    "detail_types": ["roof edge", "glazing interface", "base condition"],
+    "environmental_themes": ["harbour exposure", "light"],
+    "tectonic_themes": ["shell structure", "monumental precision", "surface articulation"],
+    "key_features": [
+      "iconic shell roof forms",
+      "careful interface between shell and glazed foyer",
+      "large-scale precision"
+    ],
+    "junction_lessons": [
+      "complex forms still need highly legible interfaces",
+      "base and edge conditions ground even expressive geometry",
+      "surface systems require disciplined joint control"
+    ],
+    "material_transitions": [
+      "shell to glazing",
+      "podium to shell",
+      "tile surface to edge trim"
+    ],
+    "why_relevant": "Valuable for understanding how expressive form still depends on disciplined interface resolution."
+  },
+  {
+    "name": "Murcutt Lewin House",
+    "architect": "Richard Leplastrier",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "timber", "craft", "lightweight"],
+    "materials": ["timber", "glass", "metal roofing"],
+    "detail_types": ["joinery", "opening", "threshold", "screen"],
+    "environmental_themes": ["ventilation", "light touch on site"],
+    "tectonic_themes": ["timber craft", "small-scale precision"],
+    "key_features": [
+      "careful timber framing",
+      "responsive openings",
+      "refined yet relaxed domestic language"
+    ],
+    "junction_lessons": [
+      "make fine timber details robust enough for real use",
+      "treat operable elements as core architectural components",
+      "small shifts in section can sharpen threshold quality"
+    ],
+    "material_transitions": [
+      "timber frame to glass",
+      "opening to screen",
+      "threshold to deck"
+    ],
+    "why_relevant": "Helpful for fine-grain timber craft, operable openings, and intimate domestic tectonics."
+  },
+  {
+    "name": "Castlecrag House",
+    "architect": "Glenn Murcutt",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "urban", "lightweight", "site response"],
+    "materials": ["timber", "steel", "glass"],
+    "detail_types": ["opening", "wall assembly", "deck junction", "roof edge"],
+    "environmental_themes": ["urban site response", "light", "ventilation"],
+    "tectonic_themes": ["refined frame", "calibrated openness"],
+    "key_features": [
+      "tightly resolved urban domestic scale",
+      "lightweight but deliberate material language",
+      "careful sectional response to site"
+    ],
+    "junction_lessons": [
+      "urban settings still benefit from lightweight clarity",
+      "use detail to regulate privacy and openness together",
+      "keep joins disciplined where space is compact"
+    ],
+    "material_transitions": [
+      "frame to infill",
+      "interior to external deck",
+      "roof edge to neighboring context"
+    ],
+    "why_relevant": "Useful for detailed urban residential design with lightweight logic and careful control of openness."
+  },
+  {
+    "name": "Bangalley House",
+    "architect": "Glenn Murcutt",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "coastal", "lightweight", "landscape response"],
+    "materials": ["timber", "steel", "metal roofing"],
+    "detail_types": ["roof edge", "opening", "deck junction", "screen"],
+    "environmental_themes": ["coastal exposure", "solar control", "wind"],
+    "tectonic_themes": ["environmental calibration", "light frame"],
+    "key_features": [
+      "strong response to climate and view",
+      "elegant lightweight shelter",
+      "careful edge modulation"
+    ],
+    "junction_lessons": [
+      "coastal exposure should inform every edge detail",
+      "lightweight construction needs robust fixing and flashing discipline",
+      "openings should balance view, sun, and weather"
+    ],
+    "material_transitions": [
+      "deck to opening",
+      "screen to glazed enclosure",
+      "roof edge to coastal facade"
+    ],
+    "why_relevant": "Helpful for exposed coastal detailing, thin edge conditions, and environmental tuning of lightweight envelopes."
+  },
+  {
+    "name": "Walsh House",
+    "architect": "Sean Godsell",
+    "location": "Victoria, Australia",
+    "building_type": "house",
+    "categories": ["residential", "metal", "industrial expression", "urban"],
+    "materials": ["steel", "concrete", "glass"],
+    "detail_types": ["facade", "screen", "threshold", "opening"],
+    "environmental_themes": ["privacy", "solar protection"],
+    "tectonic_themes": ["steel precision", "protective envelope", "repetition"],
+    "key_features": [
+      "controlled metal skin",
+      "disciplined material palette",
+      "precise openings and screens"
+    ],
+    "junction_lessons": [
+      "repetition strengthens facade clarity",
+      "thin metal assemblies need strict dimensional control",
+      "allow outer skin to mediate climate and privacy"
+    ],
+    "material_transitions": [
+      "screen to enclosure",
+      "concrete base to steel wall",
+      "opening to protective outer layer"
+    ],
+    "why_relevant": "Useful for metal facades, precise screen systems, and disciplined urban envelope design."
+  },
+  {
+    "name": "House in Western Victoria",
+    "architect": "John Wardle Architects",
+    "location": "Victoria, Australia",
+    "building_type": "house",
+    "categories": ["residential", "rural", "timber", "crafted"],
+    "materials": ["timber", "metal", "masonry"],
+    "detail_types": ["cladding", "opening", "roof edge", "threshold"],
+    "environmental_themes": ["rural climate", "durability", "seasonal response"],
+    "tectonic_themes": ["crafted enclosure", "layering", "material warmth"],
+    "key_features": [
+      "careful timber articulation",
+      "warm and robust enclosure",
+      "high attention to domestic detail"
+    ],
+    "junction_lessons": [
+      "combine warmth and robustness through clear layer hierarchy",
+      "use timber with enough thickness and ventilation to age well",
+      "make domestic thresholds feel generous through sectional control"
+    ],
+    "material_transitions": [
+      "timber cladding to masonry base",
+      "roof to wall",
+      "opening to deep reveal"
+    ],
+    "why_relevant": "Helpful for warm, robust rural domestic detailing and nuanced timber-based junctions."
+  },
+  {
+    "name": "Fairhaven House",
+    "architect": "John Wardle Architects",
+    "location": "Victoria, Australia",
+    "building_type": "house",
+    "categories": ["residential", "coastal", "timber", "landscape response"],
+    "materials": ["timber", "metal", "glass"],
+    "detail_types": ["roof edge", "opening", "cladding", "threshold"],
+    "environmental_themes": ["coastal exposure", "view framing", "wind"],
+    "tectonic_themes": ["crafted envelope", "response to exposure", "framed landscape"],
+    "key_features": [
+      "carefully modulated timber form",
+      "strong coastal response",
+      "refined openings and edges"
+    ],
+    "junction_lessons": [
+      "coastal conditions require careful fixing and weather detailing",
+      "timber elements should be robust enough to weather with dignity",
+      "frame views without compromising enclosure performance"
+    ],
+    "material_transitions": [
+      "cladding to opening",
+      "roof edge to glazed wall",
+      "threshold to deck"
+    ],
+    "why_relevant": "Useful for coastal timber envelopes, view-oriented openings, and robust weather-responsive domestic edges."
+  },
+  {
+    "name": "Rammed Earth House",
+    "architect": "Kennedy Nolan",
+    "location": "Victoria, Australia",
+    "building_type": "house",
+    "categories": ["residential", "mass", "earth construction", "crafted"],
+    "materials": ["rammed earth", "steel", "timber", "concrete"],
+    "detail_types": ["wall base", "opening", "roof edge", "junction"],
+    "environmental_themes": ["thermal mass", "durability", "light control"],
+    "tectonic_themes": ["mass and opening", "material honesty", "thickness"],
+    "key_features": [
+      "thick wall construction",
+      "strong base and enclosure logic",
+      "careful contrast between heavy and light elements"
+    ],
+    "junction_lessons": [
+      "heavy walls need calm, protective edge details",
+      "base conditions should reinforce the sense of mass",
+      "contrast light insertions carefully against thick construction"
+    ],
+    "material_transitions": [
+      "rammed earth to timber opening",
+      "heavy wall to roof",
+      "base to terrain"
+    ],
+    "why_relevant": "Valuable for thick-wall thinking, base conditions, and heavy-to-light material transitions."
+  },
+  {
+    "name": "House on the Coast",
+    "architect": "Chenchow Little",
+    "location": "New South Wales, Australia",
+    "building_type": "house",
+    "categories": ["residential", "coastal", "crafted", "contemporary"],
+    "materials": ["timber", "concrete", "metal", "glass"],
+    "detail_types": ["opening", "threshold", "cladding", "stair"],
+    "environmental_themes": ["coastal climate", "light", "privacy"],
+    "tectonic_themes": ["precision", "domestic craft", "layered enclosure"],
+    "key_features": [
+      "highly refined domestic material palette",
+      "careful orchestration of openness and privacy",
+      "precise interior-exterior transitions"
+    ],
+    "junction_lessons": [
+      "coastal domestic details benefit from clear hierarchy of robust to refined elements",
+      "thresholds should be both durable and spatially intentional",
+      "use reveals and offsets to sharpen material transitions"
+    ],
+    "material_transitions": [
+      "concrete to timber",
+      "cladding to opening",
+      "internal finish to exterior threshold"
+    ],
+    "why_relevant": "Useful for refined coastal domestic detailing, threshold precision, and layered material transitions."
+  },
+  {
+    "name": "Holiday House in Victoria",
+    "architect": "Kerstin Thompson Architects",
+    "location": "Victoria, Australia",
+    "building_type": "house",
+    "categories": ["residential", "coastal", "timber", "crafted"],
+    "materials": ["timber", "metal", "concrete"],
+    "detail_types": ["cladding", "threshold", "roof edge", "opening"],
+    "environmental_themes": ["weather exposure", "light", "seasonal occupancy"],
+    "tectonic_themes": ["restrained craft", "weathering", "clarity"],
+    "key_features": [
+      "restrained but tactile material language",
+      "careful response to harsh weather",
+      "quietly precise domestic details"
+    ],
+    "junction_lessons": [
+      "quiet details still need robust weather logic",
+      "surface weathering should be anticipated and embraced",
+      "junctions should support both calm appearance and durability"
+    ],
+    "material_transitions": [
+      "timber cladding to concrete base",
+      "roof edge to wall",
+      "opening to sheltered terrace"
+    ],
+    "why_relevant": "Helpful for calm, durable coastal detailing and restrained material expression."
+  },
+  {
+    "name": "House at Hanging Rock",
+    "architect": "M6 Architecture",
+    "location": "Victoria, Australia",
+    "building_type": "house",
+    "categories": ["residential", "landscape response", "rural", "crafted"],
+    "materials": ["timber", "steel", "glass", "stone"],
+    "detail_types": ["platform", "opening", "wall base", "roof edge"],
+    "environmental_themes": ["rural exposure", "view framing", "thermal response"],
+    "tectonic_themes": ["base and frame", "landscape integration", "clarity"],
+    "key_features": [
+      "strong relationship between base and lighter frame",
+      "careful framing of site conditions",
+      "material restraint with clear hierarchy"
+    ],
+    "junction_lessons": [
+      "separate heavy base logic from lighter enclosure logic",
+      "use plinth and platform conditions to stabilise site response",
+      "let the structure explain how the building sits in the landscape"
+    ],
+    "material_transitions": [
+      "stone base to timber frame",
+      "platform to slope",
+      "opening to deep landscape"
+    ],
+    "why_relevant": "Useful for rural plinth conditions, heavy-to-light transitions, and grounded landscape-based domestic architecture."
+  },
+  {
+    "name": "Therme Vals",
+    "architect": "Peter Zumthor",
+    "location": "Vals, Switzerland",
+    "building_type": "spa",
+    "categories": ["stone mass", "material precision", "atmosphere"],
+    "materials": ["stone", "concrete"],
+    "detail_types": ["stone junction", "reveal", "interface", "wall depth"],
+    "environmental_themes": ["thermal mass", "controlled light"],
+    "tectonic_themes": ["layering", "monolithic expression", "precision"],
+    "key_features": [
+      "layered stone construction",
+      "deep reveals",
+      "precise transitions",
+      "controlled light and shadow"
+    ],
+    "junction_lessons": [
+      "heavy materials need depth and calmness at interfaces",
+      "shadow lines can do as much work as trim pieces",
+      "let thickness become part of the architecture"
+    ],
+    "material_transitions": [
+      "stone to stone",
+      "stone to concrete",
+      "heavy wall to light opening"
+    ],
+    "why_relevant": "Highly relevant when considering stone, weight, layered interfaces, and the precision of material transitions."
+  },
+  {
+    "name": "Kolumba Museum",
+    "architect": "Peter Zumthor",
+    "location": "Cologne, Germany",
+    "building_type": "museum",
+    "categories": ["masonry", "layering", "material continuity"],
+    "materials": ["brick", "concrete", "stone"],
+    "detail_types": ["masonry interface", "opening", "wall depth", "floor junction"],
+    "environmental_themes": ["thermal mass", "shadow"],
+    "tectonic_themes": ["depth", "continuity", "quiet expression"],
+    "key_features": [
+      "deep wall construction",
+      "subtle integration of old and new",
+      "careful material continuity"
+    ],
+    "junction_lessons": [
+      "use depth, reveal, and shadow to soften transitions",
+      "keep material continuity stronger than visual noise",
+      "allow thicker assemblies to read honestly"
+    ],
+    "material_transitions": [
+      "brick to concrete",
+      "deep opening to wall",
+      "new wall to older fabric"
+    ],
+    "why_relevant": "Useful for masonry depth, quiet transitions, and wall-based detail thinking."
+  },
+  {
+    "name": "Bruder Klaus Field Chapel",
+    "architect": "Peter Zumthor",
+    "location": "Germany",
+    "building_type": "chapel",
+    "categories": ["mass", "concrete", "atmosphere", "crafted"],
+    "materials": ["concrete"],
+    "detail_types": ["opening", "wall thickness", "roof aperture", "threshold"],
+    "environmental_themes": ["light control", "weathering", "thermal mass"],
+    "tectonic_themes": ["monolithic form", "void carving", "surface texture"],
+    "key_features": [
+      "solid cast form with carved interior",
+      "powerful relationship between material and atmosphere",
+      "deep threshold conditions"
+    ],
+    "junction_lessons": [
+      "monolithic construction works best when openings are restrained and exact",
+      "surface texture can carry architectural meaning",
+      "thick thresholds can intensify transition"
+    ],
+    "material_transitions": [
+      "thick concrete wall to void",
+      "threshold to dark interior",
+      "roof aperture to sky"
+    ],
+    "why_relevant": "Helpful for monolithic details, thick thresholds, and the expressive power of restrained openings."
+  },
+  {
+    "name": "Kunsthaus Bregenz",
+    "architect": "Peter Zumthor",
+    "location": "Austria",
+    "building_type": "museum",
+    "categories": ["glass", "layered facade", "precision"],
+    "materials": ["glass", "concrete", "metal"],
+    "detail_types": ["facade", "screen", "glazing interface", "edge condition"],
+    "environmental_themes": ["diffused light", "enclosure", "thermal buffering"],
+    "tectonic_themes": ["layered skin", "quiet precision", "surface control"],
+    "key_features": [
+      "double-layer facade logic",
+      "controlled luminous envelope",
+      "precise detailing of glass and support systems"
+    ],
+    "junction_lessons": [
+      "layered facades need disciplined hierarchy",
+      "thin details benefit from strong structural logic behind them",
+      "let facade systems read clearly rather than ambiguously"
+    ],
+    "material_transitions": [
+      "glass skin to concrete structure",
+      "outer layer to inner enclosure",
+      "facade panel to edge trim"
+    ],
+    "why_relevant": "Useful for precise glass and layered facade thinking, especially where restraint matters."
+  },
+  {
+    "name": "Brion Cemetery",
+    "architect": "Carlo Scarpa",
+    "location": "San Vito d'Altivole, Italy",
+    "building_type": "memorial",
+    "categories": ["junction design", "concrete craft", "material articulation"],
+    "materials": ["concrete", "stone", "metal", "water"],
+    "detail_types": ["junction", "threshold", "water interface", "reveal"],
+    "environmental_themes": ["water handling", "weathering", "shadow"],
+    "tectonic_themes": ["articulated joint", "layered transition", "precision"],
+    "key_features": [
+      "highly expressive joints",
+      "layered threshold conditions",
+      "careful integration of concrete and water"
+    ],
+    "junction_lessons": [
+      "joints can be both technical and poetic",
+      "use reveals to intensify rather than hide transitions",
+      "water interfaces need exact geometric control"
+    ],
+    "material_transitions": [
+      "concrete to water",
+      "stone to metal insert",
+      "threshold to landscape"
+    ],
+    "why_relevant": "An essential precedent for understanding how detail joints can become precise, expressive, and materially rich."
+  },
+  {
+    "name": "Querini Stampalia",
+    "architect": "Carlo Scarpa",
+    "location": "Venice, Italy",
+    "building_type": "museum",
+    "categories": ["water", "threshold", "renovation", "material articulation"],
+    "materials": ["stone", "concrete", "metal", "water"],
+    "detail_types": ["water interface", "threshold", "stair", "floor junction"],
+    "environmental_themes": ["flooding", "water movement", "light"],
+    "tectonic_themes": ["layered threshold", "insertions", "precision"],
+    "key_features": [
+      "highly choreographed movement through thresholds",
+      "precise relationship with water level changes",
+      "richly layered material detail"
+    ],
+    "junction_lessons": [
+      "accept environmental reality rather than deny it",
+      "thresholds can mediate water, level change, and atmosphere at once",
+      "insert new detail into old fabric with discipline"
+    ],
+    "material_transitions": [
+      "stone to water",
+      "floor to stair",
+      "metal insert to masonry"
+    ],
+    "why_relevant": "Very useful for threshold thinking, water-sensitive detailing, and layered material transitions."
+  },
+  {
+    "name": "Castelvecchio Museum",
+    "architect": "Carlo Scarpa",
+    "location": "Verona, Italy",
+    "building_type": "museum",
+    "categories": ["renovation", "junction", "material contrast", "craft"],
+    "materials": ["concrete", "stone", "steel", "timber"],
+    "detail_types": ["stair", "reveal", "junction", "insert"],
+    "environmental_themes": ["adaptive reuse", "light control"],
+    "tectonic_themes": ["old and new dialogue", "precision insertions", "material contrast"],
+    "key_features": [
+      "precise insertion into historic fabric",
+      "clear contrast between old and new materials",
+      "richly detailed stair and display elements"
+    ],
+    "junction_lessons": [
+      "contrasting materials can strengthen clarity rather than create conflict",
+      "new interventions should be precise, not imitative",
+      "reveals and offsets help old and new coexist"
+    ],
+    "material_transitions": [
+      "new concrete to historic stone",
+      "steel insert to masonry wall",
+      "stair to existing fabric"
+    ],
+    "why_relevant": "Helpful for material contrast, insertions, and clear tectonic dialogue between systems."
+  },
+  {
+    "name": "Church of the Light",
+    "architect": "Tadao Ando",
+    "location": "Osaka, Japan",
+    "building_type": "church",
+    "categories": ["minimalism", "concrete", "light"],
+    "materials": ["concrete", "glass"],
+    "detail_types": ["wall opening", "junction restraint", "interface"],
+    "environmental_themes": ["light control"],
+    "tectonic_themes": ["restraint", "precision", "void as detail"],
+    "key_features": [
+      "precise concrete openings",
+      "extreme detail restraint",
+      "light treated as a tectonic element"
+    ],
+    "junction_lessons": [
+      "less detail requires more precision, not less thought",
+      "openings can be defined by subtraction rather than addition",
+      "restraint is a tectonic strategy"
+    ],
+    "material_transitions": [
+      "concrete wall to glass infill",
+      "solid wall to light opening",
+      "threshold to bare surface"
+    ],
+    "why_relevant": "Helpful for minimal detail language, restrained junctions, and precise openings."
+  },
+  {
+    "name": "Azuma House",
+    "architect": "Tadao Ando",
+    "location": "Osaka, Japan",
+    "building_type": "house",
+    "categories": ["minimal", "concrete", "courtyard", "urban"],
+    "materials": ["concrete"],
+    "detail_types": ["wall", "threshold", "opening", "courtyard edge"],
+    "environmental_themes": ["light", "rain exposure", "urban enclosure"],
+    "tectonic_themes": ["void", "discipline", "solid and open"],
+    "key_features": [
+      "strong concrete enclosure",
+      "courtyard as central environmental device",
+      "disciplined threshold sequence"
+    ],
+    "junction_lessons": [
+      "courtyard thresholds must manage both exposure and continuity",
+      "solid surfaces intensify the effect of openings",
+      "minimal details need rigorous alignment"
+    ],
+    "material_transitions": [
+      "solid wall to open court",
+      "interior room to exterior void",
+      "threshold to weather-exposed space"
+    ],
+    "why_relevant": "Useful for understanding minimal thresholds, exposed courtyard conditions, and disciplined wall-based detailing."
+  },
+  {
+    "name": "Chichu Art Museum",
+    "architect": "Tadao Ando",
+    "location": "Naoshima, Japan",
+    "building_type": "museum",
+    "categories": ["concrete", "light", "landscape integration"],
+    "materials": ["concrete", "stone", "glass"],
+    "detail_types": ["opening", "roof aperture", "wall junction", "threshold"],
+    "environmental_themes": ["top light", "site integration", "light control"],
+    "tectonic_themes": ["subtraction", "precision", "landform insertion"],
+    "key_features": [
+      "precise concrete geometry",
+      "controlled natural light",
+      "building embedded into site"
+    ],
+    "junction_lessons": [
+      "when form is reduced, edge control becomes critical",
+      "light apertures need exact proportion and finish",
+      "terrain and building can be resolved as interdependent systems"
+    ],
+    "material_transitions": [
+      "concrete wall to sky opening",
+      "site to built void",
+      "heavy wall to light-filled chamber"
+    ],
+    "why_relevant": "Helpful for precise light openings, earth-integrated construction, and reduced but exact concrete detailing."
+  },
+  {
+    "name": "Can Lis",
+    "architect": "Jørn Utzon",
+    "location": "Mallorca, Spain",
+    "building_type": "house",
+    "categories": ["residential", "stone", "light", "coastal"],
+    "materials": ["stone", "timber", "tile"],
+    "detail_types": ["opening", "wall thickness", "threshold", "plinth"],
+    "environmental_themes": ["light control", "sea exposure", "thermal mass"],
+    "tectonic_themes": ["mass and opening", "platforms", "framed horizon"],
+    "key_features": [
+      "stone rooms arranged as pavilions",
+      "deep openings",
+      "strong relationship to horizon and light"
+    ],
+    "junction_lessons": [
+      "heavy walls benefit from deep, protective reveals",
+      "thresholds can be thickened and inhabited",
+      "stone base conditions should feel grounded and deliberate"
+    ],
+    "material_transitions": [
+      "stone wall to timber opening",
+      "plinth to room",
+      "heavy wall to open view"
+    ],
+    "why_relevant": "Excellent for stone base conditions, deep openings, and transitions between mass and light."
+  },
+  {
+    "name": "Utzon House in Hellebæk",
+    "architect": "Jørn Utzon",
+    "location": "Denmark",
+    "building_type": "house",
+    "categories": ["residential", "domestic craft", "platform", "modular"],
+    "materials": ["brick", "timber", "tile"],
+    "detail_types": ["wall base", "opening", "roof junction", "courtyard threshold"],
+    "environmental_themes": ["light", "shelter", "domestic enclosure"],
+    "tectonic_themes": ["modularity", "platforms", "courtyard logic"],
+    "key_features": [
+      "clear modular order",
+      "careful relationship of inside and outside courts",
+      "strong domestic tectonic discipline"
+    ],
+    "junction_lessons": [
+      "modular systems support disciplined junction decisions",
+      "courtyard thresholds are strengthened by repeated logic",
+      "domestic architecture benefits from quiet but exact details"
+    ],
+    "material_transitions": [
+      "brick wall to timber opening",
+      "interior room to court",
+      "roof edge to courtyard"
+    ],
+    "why_relevant": "Useful for modular domestic planning, courtyard thresholds, and quietly precise material transitions."
+  },
+  {
+    "name": "Can Feliz",
+    "architect": "Jørn Utzon",
+    "location": "Mallorca, Spain",
+    "building_type": "house",
+    "categories": ["residential", "stone", "landscape response", "crafted"],
+    "materials": ["stone", "timber", "tile"],
+    "detail_types": ["opening", "plinth", "threshold", "wall thickness"],
+    "environmental_themes": ["light", "view framing", "thermal mass"],
+    "tectonic_themes": ["framed horizon", "stone domesticity", "shelter"],
+    "key_features": [
+      "strong stone bases and walls",
+      "careful relationship between room and terrace",
+      "precise but warm domestic atmosphere"
+    ],
+    "junction_lessons": [
+      "heavy domestic materials still need tactile refinement",
+      "plinth and terrace relationships should feel inhabited, not residual",
+      "light and view can sharpen the meaning of openings"
+    ],
+    "material_transitions": [
+      "stone wall to terrace",
+      "heavy base to open view",
+      "opening to deep reveal"
+    ],
+    "why_relevant": "Helpful for warm, inhabitable stone thresholds and strong relationships between mass, opening, and horizon."
+  },
+  {
+    "name": "Casa da Música",
+    "architect": "OMA",
+    "location": "Porto, Portugal",
+    "building_type": "cultural",
+    "categories": ["concrete", "faceted form", "surface precision"],
+    "materials": ["concrete", "glass", "metal"],
+    "detail_types": ["facade interface", "opening", "edge condition"],
+    "environmental_themes": ["light control"],
+    "tectonic_themes": ["surface continuity", "sharp junctions"],
+    "key_features": [
+      "angular concrete expression",
+      "high precision skin transitions",
+      "sharp edge language"
+    ],
+    "junction_lessons": [
+      "faceted forms demand strict geometric consistency",
+      "edge conditions need exact trim and movement logic",
+      "surface continuity can be as important as material contrast"
+    ],
+    "material_transitions": [
+      "concrete plane to glazing",
+      "faceted wall to roof edge",
+      "surface fold to opening"
+    ],
+    "why_relevant": "Relevant for crisp junctions, surface continuity, and geometrically controlled edge conditions."
+  },
+  {
+    "name": "Barcelona Pavilion",
+    "architect": "Mies van der Rohe",
+    "location": "Barcelona, Spain",
+    "building_type": "pavilion",
+    "categories": ["minimal", "platform", "material precision", "modernist"],
+    "materials": ["stone", "steel", "glass", "water"],
+    "detail_types": ["platform", "wall junction", "column interface", "threshold"],
+    "environmental_themes": ["reflection", "light", "openness"],
+    "tectonic_themes": ["floating planes", "precision", "material contrast"],
+    "key_features": [
+      "free plan with highly controlled material interfaces",
+      "floating roof and platform reading",
+      "minimal but exact transitions"
+    ],
+    "junction_lessons": [
+      "minimalism depends on exact dimensional relationships",
+      "columns, slabs, and walls should read as distinct systems",
+      "stone and steel transitions benefit from calm restraint"
+    ],
+    "material_transitions": [
+      "stone floor to steel column",
+      "glass screen to roof plane",
+      "platform to water edge"
+    ],
+    "why_relevant": "A fundamental precedent for precision, platform logic, and clear distinction between structural and enclosure elements."
+  },
+  {
+    "name": "Farnsworth House",
+    "architect": "Mies van der Rohe",
+    "location": "Illinois, USA",
+    "building_type": "house",
+    "categories": ["residential", "platform", "steel", "minimal"],
+    "materials": ["steel", "glass", "stone"],
+    "detail_types": ["platform edge", "column interface", "opening", "threshold"],
+    "environmental_themes": ["flood risk", "lightness", "landscape relationship"],
+    "tectonic_themes": ["elevated plane", "structural clarity", "minimal enclosure"],
+    "key_features": [
+      "elevated steel platform",
+      "crisp reading of frame and enclosure",
+      "minimal but highly controlled edge conditions"
+    ],
+    "junction_lessons": [
+      "elevation can be both environmental and tectonic",
+      "thin edges require robust hidden logic",
+      "glass and steel details depend on exact alignment"
+    ],
+    "material_transitions": [
+      "platform to landscape",
+      "steel frame to glass enclosure",
+      "stair to elevated slab"
+    ],
+    "why_relevant": "Useful for platform edges, steel-and-glass precision, and elevated thresholds."
+  },
+  {
+    "name": "Dominus Winery",
+    "architect": "Herzog & de Meuron",
+    "location": "California, USA",
+    "building_type": "winery",
+    "categories": ["gabion", "mass", "screen", "climate response"],
+    "materials": ["stone", "steel"],
+    "detail_types": ["wall assembly", "screen", "base condition", "opening"],
+    "environmental_themes": ["thermal performance", "filtered light", "ventilation"],
+    "tectonic_themes": ["porous mass", "material density", "surface depth"],
+    "key_features": [
+      "gabion wall system",
+      "massive but porous enclosure",
+      "environmental performance embedded in wall assembly"
+    ],
+    "junction_lessons": [
+      "heavy walls can still ventilate and filter light",
+      "material density can be varied strategically",
+      "base conditions should support both weight and permeability"
+    ],
+    "material_transitions": [
+      "gabion wall to opening",
+      "stone mass to steel support",
+      "base to porous enclosure"
+    ],
+    "why_relevant": "Helpful for thick wall thinking, porous skins, and heavy materials used as environmental moderators."
+  },
+  {
+    "name": "Serralves Museum",
+    "architect": "Álvaro Siza",
+    "location": "Porto, Portugal",
+    "building_type": "museum",
+    "categories": ["minimal", "plaster", "light", "crafted"],
+    "materials": ["plaster", "stone", "glass", "metal"],
+    "detail_types": ["opening", "junction restraint", "threshold", "wall base"],
+    "environmental_themes": ["light control", "landscape response"],
+    "tectonic_themes": ["quiet precision", "proportion", "restraint"],
+    "key_features": [
+      "subtle white surfaces",
+      "careful proportion of openings",
+      "highly controlled transitions"
+    ],
+    "junction_lessons": [
+      "quiet surfaces need precise edges and reveals",
+      "openings should be proportioned as part of the wall, not applied to it",
+      "base details can be understated but must remain exact"
+    ],
+    "material_transitions": [
+      "plaster wall to stone base",
+      "wall to opening",
+      "threshold to garden"
+    ],
+    "why_relevant": "Useful for restrained detailing, calm wall openings, and highly controlled domestic or gallery-like transitions."
+  },
+  {
+    "name": "Boa Nova Tea House",
+    "architect": "Álvaro Siza",
+    "location": "Portugal",
+    "building_type": "hospitality",
+    "categories": ["coastal", "landscape integration", "crafted"],
+    "materials": ["concrete", "timber", "stone", "glass"],
+    "detail_types": ["roof edge", "threshold", "opening", "plinth"],
+    "environmental_themes": ["coastal exposure", "site integration", "light"],
+    "tectonic_themes": ["landscape insertion", "crafted restraint", "material continuity"],
+    "key_features": [
+      "building woven into rocky site",
+      "careful control of roof and edge conditions",
+      "rich but restrained material palette"
+    ],
+    "junction_lessons": [
+      "coastal settings benefit from grounded base conditions",
+      "roof lines should support the building’s fit to landscape",
+      "material transitions can be quiet but still strongly articulated"
+    ],
+    "material_transitions": [
+      "stone site to built plinth",
+      "roof edge to opening",
+      "threshold to rocky terrain"
+    ],
+    "why_relevant": "Helpful for coastal conditions, site-integrated detailing, and refined relationships between building and terrain."
+  },
+  {
+    "name": "Lewerentz Flower Kiosk",
+    "architect": "Sigurd Lewerentz",
+    "location": "Malmö, Sweden",
+    "building_type": "pavilion",
+    "categories": ["brick", "small-scale", "craft", "atmosphere"],
+    "materials": ["brick", "steel", "glass"],
+    "detail_types": ["opening", "masonry junction", "roof edge", "base condition"],
+    "environmental_themes": ["weathering", "shelter"],
+    "tectonic_themes": ["material character", "weight and delicacy", "quiet craft"],
+    "key_features": [
+      "intense material focus at small scale",
+      "precise use of brick and steel",
+      "strong atmosphere through simple means"
+    ],
+    "junction_lessons": [
+      "small buildings can teach very large tectonic lessons",
+      "brickwork and steelwork should reinforce one another’s character",
+      "simple edge details gain power through proportion and exactness"
+    ],
+    "material_transitions": [
+      "brick to steel frame",
+      "masonry base to opening",
+      "roof edge to small enclosure"
+    ],
+    "why_relevant": "Useful for understanding the tectonic value of small-scale precision, brick junctions, and calm material contrast."
+  },
+  {
+    "name": "St Peter’s Church, Klippan",
+    "architect": "Sigurd Lewerentz",
+    "location": "Sweden",
+    "building_type": "church",
+    "categories": ["brick", "atmosphere", "craft", "mass"],
+    "materials": ["brick", "concrete", "metal"],
+    "detail_types": ["wall opening", "roof junction", "masonry interface", "threshold"],
+    "environmental_themes": ["light", "weathering", "shadow"],
+    "tectonic_themes": ["material depth", "rough precision", "assembly honesty"],
+    "key_features": [
+      "highly atmospheric brick construction",
+      "deep material presence",
+      "careful relationship between roughness and control"
+    ],
+    "junction_lessons": [
+      "rough materials still require exact tectonic judgment",
+      "depth and shadow can replace superficial decoration",
+      "let the assembly process remain legible"
+    ],
+    "material_transitions": [
+      "brick wall to concrete insert",
+      "roof edge to masonry mass",
+      "threshold to dark interior"
+    ],
+    "why_relevant": "Helpful for masonry weight, material depth, and details that are both rugged and precise."
+  },
+  {
+    "name": "Kimbell Art Museum",
+    "architect": "Louis Kahn",
+    "location": "Texas, USA",
+    "building_type": "museum",
+    "categories": ["concrete", "light", "vaulted structure", "precision"],
+    "materials": ["concrete", "travertine", "metal"],
+    "detail_types": ["roof aperture", "wall junction", "threshold", "surface transition"],
+    "environmental_themes": ["daylight control", "thermal mass"],
+    "tectonic_themes": ["served and servant order", "structural clarity", "calm monumentality"],
+    "key_features": [
+      "vaulted roof with controlled daylight",
+      "careful relationship between structure and finish",
+      "strong clarity of material order"
+    ],
+    "junction_lessons": [
+      "roof lighting systems require exact sectional thinking",
+      "distinguish structural order from surface finish clearly",
+      "let materials reinforce hierarchy rather than blur it"
+    ],
+    "material_transitions": [
+      "vault to light slot",
+      "concrete structure to stone finish",
+      "threshold to gallery volume"
+    ],
+    "why_relevant": "Useful for roof-light details, structural hierarchy, and calm monumental material transitions."
+  },
+  {
+    "name": "Salk Institute",
+    "architect": "Louis Kahn",
+    "location": "California, USA",
+    "building_type": "institutional",
+    "categories": ["concrete", "monumental", "service integration", "precision"],
+    "materials": ["concrete", "timber", "stone"],
+    "detail_types": ["joint", "opening", "service interface", "plaza edge"],
+    "environmental_themes": ["light", "weathering", "coastal exposure"],
+    "tectonic_themes": ["structure and service integration", "monumentality", "craft"],
+    "key_features": [
+      "precise board-formed concrete",
+      "integrated service and structural logic",
+      "powerful central court and water datum"
+    ],
+    "junction_lessons": [
+      "services should be designed as part of the tectonic system",
+      "monumental work depends on disciplined joints and finishes",
+      "exposed concrete edges need exact control"
+    ],
+    "material_transitions": [
+      "concrete to timber insert",
+      "plaza to water line",
+      "service zone to primary structure"
+    ],
+    "why_relevant": "Helpful for exposed concrete precision, service integration, and disciplined monumental detailing."
+  },
+  {
+    "name": "Notre Dame du Haut",
+    "architect": "Le Corbusier",
+    "location": "Ronchamp, France",
+    "building_type": "chapel",
+    "categories": ["mass", "concrete", "roof form", "light"],
+    "materials": ["concrete", "plaster", "glass"],
+    "detail_types": ["roof edge", "wall opening", "junction", "threshold"],
+    "environmental_themes": ["light control", "weather exposure"],
+    "tectonic_themes": ["plastic form", "mass and void", "expressive roof"],
+    "key_features": [
+      "thick sculptural walls",
+      "dramatic floating roof reading",
+      "varied apertures controlling light"
+    ],
+    "junction_lessons": [
+      "expressive forms still need legible structural and weathering logic",
+      "thick walls can intensify the spatial power of small openings",
+      "roof separation can be used to heighten light and form"
+    ],
+    "material_transitions": [
+      "roof to thick wall",
+      "opening to massive enclosure",
+      "threshold to sculptural interior"
+    ],
+    "why_relevant": "Useful for expressive roof-wall relationships, thick wall openings, and the tectonics of mass and light."
+  },
+  {
+    "name": "La Tourette",
+    "architect": "Le Corbusier",
+    "location": "France",
+    "building_type": "monastery",
+    "categories": ["concrete", "brise-soleil", "mass and frame", "light"],
+    "materials": ["concrete", "glass", "metal"],
+    "detail_types": ["screen", "opening", "facade interface", "roof edge"],
+    "environmental_themes": ["solar control", "topography", "light"],
+    "tectonic_themes": ["frame and infill", "brise-soleil", "monastic restraint"],
+    "key_features": [
+      "deep sun-shading facade elements",
+      "strong structural frame language",
+      "careful interplay of roughness and exactness"
+    ],
+    "junction_lessons": [
+      "sun-shading devices should be integrated rather than applied",
+      "frame and infill systems benefit from clear separation",
+      "rough concrete still needs exact proportion and edge control"
+    ],
+    "material_transitions": [
+      "concrete frame to infill panel",
+      "screen to opening",
+      "building to sloping site"
+    ],
+    "why_relevant": "Helpful for shading systems, frame-infill logic, and rough-but-controlled concrete tectonics."
+  },
+  {
+    "name": "Dominican School, Fisac",
+    "architect": "Miguel Fisac",
+    "location": "Spain",
+    "building_type": "educational",
+    "categories": ["concrete", "roof form", "light", "sectional invention"],
+    "materials": ["concrete", "glass", "metal"],
+    "detail_types": ["roof-light junction", "opening", "wall section"],
+    "environmental_themes": ["daylight", "structural expression"],
+    "tectonic_themes": ["bone-like concrete", "sectional clarity", "inventive form"],
+    "key_features": [
+      "sectionally expressive concrete forms",
+      "integration of light and structure",
+      "careful roof and opening relationships"
+    ],
+    "junction_lessons": [
+      "section is a powerful tectonic tool",
+      "roof and daylight details can drive architectural identity",
+      "innovative forms still require disciplined interfaces"
+    ],
+    "material_transitions": [
+      "roof to daylight opening",
+      "wall to light slot",
+      "structure to enclosure"
+    ],
+    "why_relevant": "Useful for sectional roof-light thinking and concrete details shaped by structural and environmental intent."
+  },
+  {
+    "name": "Eames House",
+    "architect": "Charles and Ray Eames",
+    "location": "California, USA",
+    "building_type": "house",
+    "categories": ["residential", "steel frame", "prefabrication", "lightweight"],
+    "materials": ["steel", "glass", "panel infill", "timber"],
+    "detail_types": ["frame", "panel junction", "opening", "threshold"],
+    "environmental_themes": ["lightweight siting", "landscape response"],
+    "tectonic_themes": ["kit-of-parts", "frame and infill", "precision through repetition"],
+    "key_features": [
+      "clear modular frame",
+      "prefabricated component logic",
+      "light touch on site"
+    ],
+    "junction_lessons": [
+      "modular coordination reduces detail ambiguity",
+      "frame and infill systems benefit from disciplined dimensional grids",
+      "repetition can improve both buildability and beauty"
+    ],
+    "material_transitions": [
+      "steel frame to infill panel",
+      "glass panel to opaque panel",
+      "platform to landscape"
+    ],
+    "why_relevant": "Useful for modular coordination, frame-infill logic, and lightweight domestic assembly."
+  },
+  {
+    "name": "Glass House",
+    "architect": "Philip Johnson",
+    "location": "Connecticut, USA",
+    "building_type": "house",
+    "categories": ["residential", "glass", "steel", "minimal"],
+    "materials": ["steel", "glass", "brick"],
+    "detail_types": ["frame edge", "opening", "platform", "enclosure"],
+    "environmental_themes": ["landscape openness", "light"],
+    "tectonic_themes": ["minimal enclosure", "structural clarity", "object in landscape"],
+    "key_features": [
+      "transparent enclosure",
+      "clear perimeter frame",
+      "central brick service core"
+    ],
+    "junction_lessons": [
+      "high transparency intensifies the importance of perimeter details",
+      "distinguish enclosure from core services clearly",
+      "minimal edge conditions need careful proportion and alignment"
+    ],
+    "material_transitions": [
+      "steel frame to glass",
+      "platform to landscape",
+      "glass enclosure to brick core"
+    ],
+    "why_relevant": "Helpful for glass enclosure edges, clear structural reading, and minimal platform details."
+  },
+  {
+    "name": "Dominus Winery",
+    "architect": "Herzog & de Meuron",
+    "location": "California, USA",
+    "building_type": "winery",
+    "categories": ["gabion", "mass", "screen", "climate response"],
+    "materials": ["stone", "steel"],
+    "detail_types": ["wall assembly", "screen", "base condition", "opening"],
+    "environmental_themes": ["thermal performance", "filtered light", "ventilation"],
+    "tectonic_themes": ["porous mass", "material density", "surface depth"],
+    "key_features": [
+      "gabion wall system",
+      "massive but porous enclosure",
+      "environmental performance embedded in wall assembly"
+    ],
+    "junction_lessons": [
+      "heavy walls can still ventilate and filter light",
+      "material density can be varied strategically",
+      "base conditions should support both weight and permeability"
+    ],
+    "material_transitions": [
+      "gabion wall to opening",
+      "stone mass to steel support",
+      "base to porous enclosure"
+    ],
+    "why_relevant": "Helpful for thick wall thinking, porous skins, and heavy materials used as environmental moderators."
+  },
+  {
+    "name": "Signal Box auf dem Wolf",
+    "architect": "Herzog & de Meuron",
+    "location": "Basel, Switzerland",
+    "building_type": "infrastructure",
+    "categories": ["screen", "metal", "industrial", "surface articulation"],
+    "materials": ["copper", "concrete"],
+    "detail_types": ["screen", "facade", "opening", "edge condition"],
+    "environmental_themes": ["weathering", "ventilation"],
+    "tectonic_themes": ["skin as wrapper", "perforation", "surface depth"],
+    "key_features": [
+      "continuous metal wrapping",
+      "surface perforation",
+      "building as infrastructural object"
+    ],
+    "junction_lessons": [
+      "continuous skins need exact corner and edge control",
+      "screening can also perform as enclosure and ventilation device",
+      "weathering metals should be detailed for runoff and aging"
+    ],
+    "material_transitions": [
+      "metal wrapper to opening",
+      "screen to structural box",
+      "weathered skin to base"
+    ],
+    "why_relevant": "Useful for continuous metal skins, perforated facades, and weathering metal edge conditions."
+  }
+]

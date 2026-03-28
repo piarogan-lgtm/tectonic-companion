@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Spotted Gum",
+    "type": "hardwood timber",
+    "region": "Australia",
+    "properties": ["high durability", "dense", "good external performance"],
+    "weathering": "can weather to a silver-grey if left unfinished",
+    "best_uses": ["cladding", "decking", "battens", "external joinery"],
+    "detailing_considerations": [
+      "allow for movement",
+      "use ventilated cavities behind cladding",
+      "use durable fixings",
+      "consider end-grain protection"
+    ],
+    "design_character": "Warm, robust, and well suited to expressive external timber applications."
+  },
+  {
+    "name": "Blackbutt",
+    "type": "hardwood timber",
+    "region": "Australia",
+    "properties": ["durable", "strong", "lighter in tone than many hardwoods"],
+    "weathering": "softens and silvers over time externally",
+    "best_uses": ["cladding", "screening", "interior lining", "decking"],
+    "detailing_considerations": [
+      "allow for natural movement",
+      "protect vulnerable junctions from trapped water",
+      "pair with stainless steel fixings in exposed environments"
+    ],
+    "design_character": "Clean, contemporary Australian hardwood with good versatility."
+  },
+  {
+    "name": "Ironbark",
+    "type": "hardwood timber",
+    "region": "Australia",
+    "properties": ["very dense", "high durability", "high strength"],
+    "weathering": "dark tone can soften with age",
+    "best_uses": ["posts", "beams", "decking", "heavy-duty external elements"],
+    "detailing_considerations": [
+      "pre-drilling may be required",
+      "heavier than many other timbers",
+      "careful coordination needed at fine junctions"
+    ],
+    "design_character": "Powerful, structural, and suited to robust expressed applications."
+  },
+  {
+    "name": "Tasmanian Oak",
+    "type": "interior timber",
+    "region": "Australia",
+    "properties": ["workable", "lighter colour", "good for interior applications"],
+    "weathering": "better suited to internal use unless carefully protected",
+    "best_uses": ["joinery", "interior lining", "trim", "cabinetry"],
+    "detailing_considerations": [
+      "better for interior use",
+      "should not be treated as a highly durable external hardwood",
+      "works well in refined joinery conditions"
+    ],
+    "design_character": "Soft, refined, and useful for calmer interior timber expression."
+  },
+  {
+    "name": "Corten Steel",
+    "type": "weathering steel",
+    "region": "global",
+    "properties": ["forms protective oxide layer", "strong visual character"],
+    "weathering": "develops a rust-like patina over time",
+    "best_uses": ["screens", "feature walls", "landscape elements", "facade accents"],
+    "detailing_considerations": [
+      "manage runoff staining",
+      "avoid unwanted staining onto adjacent surfaces",
+      "detail for drainage and separation where necessary"
+    ],
+    "design_character": "Textured, industrial, expressive, and strong in contrast with timber or stone."
+  },
+  {
+    "name": "Zinc",
+    "type": "metal cladding",
+    "region": "global",
+    "properties": ["malleable", "long-lasting", "fine-grain finish"],
+    "weathering": "develops a protective patina",
+    "best_uses": ["roofing", "wall cladding", "flashings", "folded sheet details"],
+    "detailing_considerations": [
+      "excellent for precise folded details",
+      "allow for thermal movement",
+      "coordinate support and ventilation carefully"
+    ],
+    "design_character": "Quiet, refined, and excellent for elegant thin-sheet expression."
+  },
+  {
+    "name": "Stainless Steel",
+    "type": "metal",
+    "region": "global",
+    "properties": ["high corrosion resistance", "strong", "durable"],
+    "weathering": "retains finish well in harsh environments",
+    "best_uses": ["fixings", "flashings", "balustrade components", "coastal details"],
+    "detailing_considerations": [
+      "valuable in coastal environments",
+      "works well for fixings with durable timbers",
+      "can read as precise and highly resolved"
+    ],
+    "design_character": "Precise, durable, and technically robust."
+  },
+  {
+    "name": "Concrete",
+    "type": "cast material",
+    "region": "global",
+    "properties": ["thermal mass", "compressive strength", "plasticity before curing"],
+    "weathering": "can stain, crack, and patinate over time depending on exposure",
+    "best_uses": ["slabs", "walls", "plinths", "retaining elements"],
+    "detailing_considerations": [
+      "control joints may be required",
+      "junctions need careful planning",
+      "surface finish and formwork logic affect final quality"
+    ],
+    "design_character": "Massive, grounded, and capable of refined or raw expression."
+  },
+  {
+    "name": "Sandstone",
+    "type": "stone",
+    "region": "Australia",
+    "properties": ["natural texture", "thermal mass", "strong sense of permanence"],
+    "weathering": "ages with surface variation and patina",
+    "best_uses": ["walls", "landscape elements", "bases", "feature masonry"],
+    "detailing_considerations": [
+      "requires careful support strategy",
+      "junctions with lighter materials should be clearly resolved",
+      "consider water shedding and staining"
+    ],
+    "design_character": "Grounded, warm, and regionally resonant."
+  },
+  {
+    "name": "Limestone",
+    "type": "stone",
+    "region": "global",
+    "properties": ["softer than some stones", "thermal mass", "subtle texture"],
+    "weathering": "can develop a soft aged appearance",
+    "best_uses": ["plinths", "interior floors", "feature walls"],
+    "detailing_considerations": [
+      "protect vulnerable edges where needed",
+      "coordinate support and fixing methods carefully",
+      "works well in calm, refined assemblies"
+    ],
+    "design_character": "Quiet, elegant, and tactile."
+  }
+]

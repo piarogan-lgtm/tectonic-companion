@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+client/node_modules
+server/node_modules
+
+# Build outputs
+dist
+client/dist
+server/dist
+
+# Environment variables (CRITICAL)
+.env
+client/.env
+server/.env
+
+# Mac / system files
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel / Render
+.vercel

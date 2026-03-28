@@ -1,0 +1,84 @@
+[
+  {
+    "detail": "window head",
+    "category": "weatherproofing",
+    "requirements": [
+      "provide adequate flashing",
+      "prevent water ingress into the wall assembly",
+      "ensure structural support above opening",
+      "maintain continuity of weather-resisting layers"
+    ],
+    "practical_meaning": "Window heads need to shed water cleanly, protect the opening, and ensure the wall system remains durable over time."
+  },
+  {
+    "detail": "window sill",
+    "category": "weatherproofing",
+    "requirements": [
+      "provide drainage path away from the building",
+      "prevent water sitting against frame or wall",
+      "coordinate flashing and sill profile"
+    ],
+    "practical_meaning": "Sills must actively throw water away from the building and avoid trapped moisture."
+  },
+  {
+    "detail": "external door threshold",
+    "category": "weatherproofing and accessibility",
+    "requirements": [
+      "minimise risk of water ingress",
+      "coordinate threshold level changes carefully",
+      "consider drainage where recessed tracks are used"
+    ],
+    "practical_meaning": "Thresholds need to balance weatherproofing, buildability, and ease of use."
+  },
+  {
+    "detail": "roof edge",
+    "category": "roof drainage",
+    "requirements": [
+      "provide drainage away from wall and openings",
+      "coordinate fascia, gutter, or edge flashing",
+      "protect wall assembly below"
+    ],
+    "practical_meaning": "Roof edges are a key line of defence and strongly affect durability and expression."
+  },
+  {
+    "detail": "deck to wall junction",
+    "category": "moisture management",
+    "requirements": [
+      "avoid trapped moisture at the wall line",
+      "provide separation where required",
+      "ensure water does not track back into the structure"
+    ],
+    "practical_meaning": "Deck junctions are common failure points and need very clear water management."
+  },
+  {
+    "detail": "bathroom floor and wall junction",
+    "category": "waterproofing",
+    "requirements": [
+      "ensure waterproofing continuity",
+      "coordinate floor falls and upturns",
+      "protect adjacent materials from moisture migration"
+    ],
+    "practical_meaning": "Internal wet area details rely on continuity and disciplined coordination of layers."
+  },
+  {
+    "detail": "balustrade fixing",
+    "category": "safety and durability",
+    "requirements": [
+      "provide structurally sound fixing",
+      "coordinate waterproofing where fixed through membranes",
+      "maintain durability in exposed conditions"
+    ],
+    "practical_meaning": "Balustrade details need both safe structural performance and careful membrane coordination."
+  },
+  {
+    "detail": "external wall cladding",
+    "category": "weatherproofing",
+    "requirements": [
+      "shed water effectively",
+      "allow drainage and drying where appropriate",
+      "use appropriate support and fixing strategy",
+      "coordinate openings and penetrations carefully"
+    ],
+    "practical_meaning": "Cladding should act as a durable outer layer, with careful thought given to ventilation, fixing, and moisture control."
+  }
+]
