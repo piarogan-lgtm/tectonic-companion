@@ -42,7 +42,7 @@ app.post("/api/query", async (req, res) => {
       "https://api.anthropic.com/v1/messages",
       {
         model: "claude-sonnet-4-5",
-        max_tokens: 2000,
+        max_tokens: 3200,
         messages: [
           {
             role: "user",
